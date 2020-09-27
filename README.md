@@ -10,7 +10,7 @@ The following is a breakdown of the data and questions that it raises.
 
 - The US has a population 328,239,523(https://www.census.gov/quickfacts/fact/table/US/PST045219), people of black race make up 13.4% while the rest(86.6%) are other race(white, latina, hispanic, etc).
 
-- 26.52% of the victims were of black race and 73.48 other race, with the rate of police brutality by victim race 0.003% and 0.0005% for blacks and other races respectively. This represents a huge gap. So:<br/>
+- 26.52% of the victims were of black race and 73.48% other race, with the rate of police brutality by victim race 0.003% and 0.0005% for blacks and other races respectively. This represents a huge gap. So:<br/>
 *Are blacks generally notorious?*<br/>
 *Or is there a racial abuse against blacks?*
 
