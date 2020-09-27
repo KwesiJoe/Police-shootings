@@ -12,7 +12,7 @@ The following is a breakdown of the data and questions that it raises.
 
 - 26.52% of the victims were of black race and 73.48% other race, with the rate of police brutality by victim race 0.003% and 0.0005% for blacks and other races respectively. This represents a huge gap. So:<br/>
 *Are blacks generally notorious?*<br/>
-*Or is there a racial abuse against blacks?*
+*Or is there a racial abuse against blacks by the police?*
 
 - About 86% of blacks killed showed no sign of mental illness compared to 75% of other races. If the victims weren't mentally sound, they might have been shot because they weren't complying with the police and posed a threat.
 
