@@ -26,6 +26,4 @@ The following is a breakdown of the data and questions that it raises.
 - 16% of police who killed blacks had a body camera on, 10% of those who killed victims of other races had it on.<br/>
 *Did the police have any thing to hide when it came to dealing with blacks?*
 
-*Dashboard.png contains the visualizations.*
-
 _**Are the killings of blacks racially motivated?**_
