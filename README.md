@@ -1,5 +1,5 @@
 # US Police shootings
-This dashboard contains a visual analysis of the US police shootings dataset. The goal of this analysis was to find if fatal shootings of blacks by the US police was racially motivated.
+This dashboard contains a visuals of the US police shootings dataset. The goal of this analysis was to find if fatal shootings of blacks by the US police was racially motivated.
 ![Image of Dashboard](https://github.com/KwesiJoe/Police-shootings/blob/master/Dashboard.png)
 
 ## About the data
